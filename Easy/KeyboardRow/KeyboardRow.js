@@ -40,7 +40,7 @@ var findWords = function(words) {
     
     for (var i = 0; i < words.length; i++) {
         
-	    word = words[i];
+        word = words[i];
         set.clear();
         
         for (var c = 0; c < word.length; c++) {
